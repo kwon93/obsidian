@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7800db95bec56b0f",
+        "id": "637c8dfeedaa4fda",
         "type": "tabs",
         "children": [
           {
-            "id": "4d21630d1c1df485",
+            "id": "fc19413aa127a905",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "task/2025-03-21.md",
-                "bFile": "task/2025-03-21.md",
-                "aRef": ""
+                "file": "task/2025-03-21.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2025-03-21"
+              "icon": "lucide-file",
+              "title": "2025-03-21"
             }
           }
         ]
@@ -189,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d21630d1c1df485",
+  "active": "65cc13400429b555",
   "lastOpenFiles": [
     "task/2025-03-21.md",
     "Untitled.canvas",
