@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "365a23b7bf2426ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "7800db95bec56b0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d21630d1c1df485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "task/2025-03-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-21"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46fbdb327ef85e81",
+    "type": "split",
+    "children": [
+      {
+        "id": "65b3942644224a7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65cc13400429b555",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "89caf60bdbe40263",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#LSI_POLE",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "763844f26b2f9a3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26088ea7c1eb510d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6782de8578d338a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ab424605b80e57a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "iisys/전주 검증 UI 요구사항 정리.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 전주 검증 UI 요구사항 정리"
+            }
+          },
+          {
+            "id": "0922112494ee7905",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "iisys/전주 검증 UI 요구사항 정리.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 전주 검증 UI 요구사항 정리"
+            }
+          },
+          {
+            "id": "ccfcaa3f23d90402",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6bd8948518c64a60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "iisys/전주 검증 UI 요구사항 정리.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 전주 검증 UI 요구사항 정리"
+            }
+          },
+          {
+            "id": "97dcc6a6b91dc26e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "075e8b5a8cef2dbd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "075e8b5a8cef2dbd",
+  "lastOpenFiles": [
+    "iisys/전주 검증 UI 요구사항 정리.md",
+    "iisys/Transaction 읽기,쓰기 작업 성능 비교.md",
+    "task/2025-03-13.md",
+    "task/2025-03-21.md",
+    "task/2025-03-20.md",
+    "task/2025-03-19.md",
+    "task/2025-03-10.md",
+    "task/2025-02-28.md",
+    "task/2025-02-25.md",
+    "iisys/JEST.md",
+    "task/2025-03-18.md",
+    "task/2025-03-17.md",
+    "task/2025-03-14.md",
+    "task/2025-03-12.md",
+    "task/2025-03-11.md",
+    "task/2025-03-05.md",
+    "task/2025-03-04.md",
+    "task/2025-03-06.md",
+    "Untitled.canvas",
+    "task/2025-02-27.md",
+    "task/2025-02-26.md",
+    "task",
+    "iisys",
+    "desktop.ini"
+  ]
+}
