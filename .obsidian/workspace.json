@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iisys/전주 검증 UI 요구사항 정리.md",
+                "file": "task/2025-03-26.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 전주 검증 UI 요구사항 정리"
+              "title": "2025-03-26 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iisys/전주 검증 UI 요구사항 정리.md",
+                "file": "task/2025-03-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 전주 검증 UI 요구사항 정리"
+              "title": "2025-03-26 의 나가는 링크"
             }
           },
           {
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -189,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc19413aa127a905",
+  "active": "97dcc6a6b91dc26e",
   "lastOpenFiles": [
     "task/2025-03-25.md",
     "task/2025-03-26.md",
