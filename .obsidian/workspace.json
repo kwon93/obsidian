@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/2025-03-26.md",
+                "file": "task/2025-03-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-26"
+              "title": "2025-03-27"
             }
           }
         ]
@@ -189,10 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97dcc6a6b91dc26e",
+  "active": "fc19413aa127a905",
   "lastOpenFiles": [
-    "task/2025-03-25.md",
     "task/2025-03-26.md",
+    "task/2025-03-27.md",
+    "task/2025-03-25.md",
     "task/2025-03-18.md",
     "task/2025-03-21.md",
     "task/2025-03-24.md",
